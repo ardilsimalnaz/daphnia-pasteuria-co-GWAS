@@ -1,1 +1,0 @@
-ADMIXTURE graph scripts
