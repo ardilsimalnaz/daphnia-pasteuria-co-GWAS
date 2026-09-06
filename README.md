@@ -23,8 +23,7 @@ Scripts used to investigate population structure in *D. magna* and *P. ramosa*.
 - fastSTRUCTURE/
   - plot_daphnia_faststructure_K6.R
   - plot_pasteuria_faststructure_K3.R
-  - structure.py
-  - chooseK.py
+ 
 
 ### 02_model1_cogwas
 
